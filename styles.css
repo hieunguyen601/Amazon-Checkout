@@ -1,0 +1,56 @@
+a {
+    color: rgb(12, 119, 219);
+    font-size: 20px;
+}
+;
+
+.price {
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.delivery {
+    font-size: 20px;
+}
+
+.button1 {
+    background-color: rgb(228, 228, 13);
+    color: black;
+    border: none;
+    padding: 7px 28px;
+    border-radius: 25px;
+    font-size: 17px;
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+    margin-right: 12px;
+}
+
+.button1:hover {
+    background-color: rgb(167, 167, 13);
+    color: black
+}
+
+.button1:active {
+    opacity: 0.5;
+}
+
+.button2 {
+    background-color: rgb(236, 161, 21);
+    color: black;
+    border: none;
+    padding: 7px 28px;
+    border-radius: 25px;
+    font-size: 17px;
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.button2:hover {
+    background-color: rgb(175, 120, 16);
+    color: black;
+}
+
+.button2:active {
+    opacity: 0.5;
+}
